@@ -1,0 +1,30 @@
+{
+  "name": "opengenus",
+  "version": "0.0.0",
+  "description": "CLI tool for finding webpage size and <a> tag count",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambhav2612/opengenus.git"
+  },
+  "keywords": [
+    "opengenus",
+    "cli-tool",
+    "cli",
+    "js",
+    "node",
+    "jsdom"
+  ],
+  "author": "Sambhav Jain for OpenGenus",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sambhav2612/opengenus/issues"
+  },
+  "homepage": "https://github.com/sambhav2612/opengenus#readme",
+  "dependencies": {
+    "jsdom": "^11.11.0"
+  }
+}
